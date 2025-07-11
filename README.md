@@ -59,4 +59,4 @@
 (k) X_train.csv: File containing dataset on which the selected model is trained.
 
 
-(4) Web App Link:
+(4) Web App Link: https://calories-burnt-predictor.streamlit.app/
