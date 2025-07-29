@@ -5,7 +5,7 @@
 
 (1) Description of the project:
 
-    I have developed a web application named Calorify for calories burnt prediction using machine learning with Python, HTML and CSS. It takes some 
+    I have developed a web application named Calorythm for calories burnt prediction using machine learning with Python, HTML and CSS. It takes some 
     parameters such as your age, gender, exercise duration etc and then it evaluates the amount of calories you would burn. In addition, 
     you will be able to observe similar results and general information (according to the parameter values that you would enter into 
     application). The application focuses on predicting the number of calories burnt during physical exercise. The project involves 
