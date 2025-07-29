@@ -5,7 +5,7 @@ import pandas as pd
 import pickle
 
 # Page Configuration
-st.set_page_config(page_title="Calories Burnt Predictor", page_icon="🔥", layout="centered")
+st.set_page_config(page_title="Calorify", page_icon="🔥", layout="centered")
 
 # Background image with dark overlay
 st.markdown(
@@ -58,8 +58,8 @@ def pred(model, Gender, Age, Height, Weight, Duration, Heart_rate, Body_temp):
     return prediction[0]
 
 # Title and subtitle (centered)
-st.markdown("<h1 style='text-align: center;'>🔥 Calories Burnt Predictor 🔥</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center;'>🚴‍♂️ Predict how many calories you burn based on workout stats</h4>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🔥 Calorify 🔥</h1>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center;'>🚴‍♂️ Know Your Burn. Own Your Fit.</h4>", unsafe_allow_html=True)
 
 # Model Comparison Section
 with st.expander("📊 Compare Model Performance"):
