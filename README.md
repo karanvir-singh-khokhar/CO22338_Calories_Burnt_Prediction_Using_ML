@@ -28,9 +28,8 @@
     You can also install every package individually using command "pip install package_name".
 
 (d) To run web application, use command "streamlit run app.py". After couple of seconds the WebApp pops up in your browser.
-    You can also click on the first link (local URL) out of the two links that will be generated to open the web application.
-    Web App Local URL: http://localhost:8501 (This link will work after you have executed the above mentioned command which makes 
-    sure that streamlit is running.)
+    You can also click on the first link (local URL) out of the two links that will be generated to open the web application. 
+    Local URL will work after you have executed the above mentioned command which makes sure that streamlit is running.
 
 
 (3) Description of the files included in the folder:
