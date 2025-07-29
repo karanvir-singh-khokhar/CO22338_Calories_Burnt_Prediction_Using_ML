@@ -1,6 +1,6 @@
-    Project name: Calories Burnt Prediction using Machine Learning
+    Project Title: Calories Burnt Prediction using Machine Learning
     
-    Created by: Karanvir Singh (CO22338) of CSE 3rd Year
+    Created by: Karanvir Singh
     
 
 (1) Description of the project:
